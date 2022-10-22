@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ahmed3atef
+- 👋 Hi, I’m Ahmed Atef
 - 👀 I’m interested in Computer Science 
 - 🌱 I’m currently learning Back-end dev with python and django & AI
 - 💞️ I’m looking to collaborate on work
