@@ -1,6 +1,6 @@
 ###👋 Hi, I’m Ahmed Atef
 
-I'm a self-taught web development student, addicted to coffee and Video games.🌱 I’m currently learning Back-end dev with python and django , AI & ML
+I'm a self-taught web development student, addicted to coffee and Video games.🌱 I’m currently learning Back-end dev with python , django , AI & ML
 and Relational Database.
 
 > “Thought constitutes the greatness of man. Man is a reed, the feeblest thing in nature, but he is a thinking reed.” ― BLAISE PASCAL
