@@ -1,4 +1,4 @@
-###👋 Hi, I’m Ahmed Atef
+### Hi 👋, I’m Ahmed Atef
 
 I'm a self-taught web development student, addicted to coffee and Video games.🌱 I’m currently learning Back-end dev with python , django , AI & ML
 and Relational Database.
