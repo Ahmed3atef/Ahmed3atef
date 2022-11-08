@@ -1,7 +1,11 @@
-- 👋 Hi, I’m Ahmed Atef
-- 👀 I’m interested in Computer Science 
-- 🌱 I’m currently learning Back-end dev with python and django & AI
-- 💞️ I’m looking to collaborate on work
+###👋 Hi, I’m Ahmed Atef
+
+I'm a self-taught web development student, addicted to coffee and Video games.🌱 I’m currently learning Back-end dev with python and django , AI & ML
+and Relational Database.
+
+> “Thought constitutes the greatness of man. Man is a reed, the feeblest thing in nature, but he is a thinking reed.” ― BLAISE PASCAL
+
+👨‍💻 About me: My academic background is in Social Work and I have many of experience in Retail, Logistics. I am currently transitioning my career into the IT and CS field also i toked CS50 from Harvard and freecodecamp Courses.
 
 <div align="center">
   <a href="https://github.com/Ahmed3atef">
