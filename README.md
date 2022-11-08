@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://github.com/Ahmed3atef">
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=Ahmed3atef&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathalyCavalcante&layout=compact&langs_count=4&theme=panda"/>
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed3atef&layout=compact&langs_count=4&theme=panda"/>
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg">
