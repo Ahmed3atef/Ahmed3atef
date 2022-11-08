@@ -7,11 +7,14 @@ and Relational Database.
 
 👨‍💻 About me: My academic background is in Social Work and I have experience in Retail, Logistics. I am currently transitioning my career into the IT and CS field also i toked CS50 from Harvard and freecodecamp Courses.
 
+
 <div align="center">
   <a href="https://github.com/Ahmed3atef">
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=Ahmed3atef&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed3atef&layout=compact&langs_count=6&theme=panda"/>
 </div>
+  
+  
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Py" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg">
   <img align="center" alt="C" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-plain.svg">
@@ -23,7 +26,7 @@ and Relational Database.
   <img align="center" alt="PSQL" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-plain-wordmark.svg">
   <img align="center" alt="Bash" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bash/bash-original.svg">
 </div>
-
+  
 - 📫 How to reach me 
 <div align="center"> 
   <a href="https://www.instagram.com/ahmedatef54/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
