@@ -5,7 +5,7 @@ and Relational Database.
 
 > “Thought constitutes the greatness of man. Man is a reed, the feeblest thing in nature, but he is a thinking reed.” ― BLAISE PASCAL
 
-👨‍💻 About me: My academic background is in Social Work and I have experience in Retail, Logistics. I am currently transitioning my career into the IT and CS field also i toked CS50 from Harvard and freecodecamp Courses.
+👨‍💻 About me: My academic background is in Social Work and I have experience in Retail and Logistics. I am currently transitioning my career into the IT and CS field also i toked CS50 from Harvard and freecodecamp Courses.
 
 
 <div align="center">
