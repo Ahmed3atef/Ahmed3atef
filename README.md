@@ -1,9 +1,8 @@
 ### Hi 👋, I’m Ahmed Atef
 
-I'm a self-taught web development student, addicted to coffee and Video games.🌱 I’m currently learning Back-end dev with python , django , AI & ML
-and Relational Database.
+I'm a self-taught web development student, addicted to coffee and Video games.🌱 I’m currently learning Full-Stack Web Development.
 
-> “Thought constitutes the greatness of man. Man is a reed, the feeblest thing in nature, but he is a thinking reed.” ― BLAISE PASCAL
+> “The only way to go fast, is to go well” ― Robert Martin
 
 👨‍💻 About me: My academic background is in Social Work and I have experience in Retail and Logistics. I am currently transitioning my career into the IT and CS field also i toked CS50 from Harvard and freecodecamp Courses.
 
