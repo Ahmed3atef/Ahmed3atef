@@ -23,7 +23,9 @@ I'm a self-taught web development student, addicted to coffee and Video games.ğŸ
   <img align="center" alt="Bootstrap" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-plain-wordmark.svg">
   <img align="center" alt="Django" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain-wordmark.svg">
   <img align="center" alt="PSQL" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-plain-wordmark.svg">
-  <img align="center" alt="Bash" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bash/bash-original.svg">
+  <img align="center" alt="djangorest" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/djangorest
+/djangorest-original.svg">
+  
 </div>
   
 - ğŸ“« How to reach me 
