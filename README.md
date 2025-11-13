@@ -10,7 +10,7 @@ I'm a self-taught web development student, addicted to coffee and Video games.ğŸ
 <div align="center">
   <a href="https://github.com/Ahmed3atef">
   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=Ahmed3atef&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed3atef&layout=compact&langs_count=6&theme=transparent"/>
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed3atef&layout=compact&langs_count=6&theme=transparent&hide=css,html"/>
 </div>
   
   
